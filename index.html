@@ -34,7 +34,9 @@
               {{ variant.color }}
             </div>
             <button class="button" @click="addToCart">Add to Cart</button>
-            <button class="button" @click="decToCart">Dec to Cart</button>
+            <button class="button" v-if="cart > 0" @click="decToCart">
+              Dec to Cart
+            </button>
           </div>
         </div>
       </div>
