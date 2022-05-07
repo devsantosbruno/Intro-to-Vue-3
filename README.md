@@ -1,6 +1,3 @@
-# Intro-to-Vue-3
-Code for Vue Mastery's Intro to Vue 3 course:
-
 ![Logo](https://cdn.freelogodesign.org/files/53863dd878d541b9b248b563354c2495/thumb/logo_200x200.png?v=637875531560000000)
 # Introdução Vue 3
 
